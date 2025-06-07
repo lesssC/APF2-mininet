@@ -1,0 +1,37 @@
+Script started on 2025-06-07 04:02:58+00:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="80" LINES="24"]
+[?2004h]0;root@ubuntu2204: /home/ubuntu/avance2/APF2-mininetroot@ubuntu2204:/home/ubuntu/avance2/APF2-mininet# cleard APF"-mininetls[Kcd avance2ls[Kscript ejercicio2.txtls[Kcd APF2-mininet+ls[Kcd avance2[3Pavance2ls[Kexitscript ejercicio2.txtls[Kgit checkoutrm ejercicio2.txtexit[Kgit push origin rama-gonzalo[5Pcommit -m "cambios"add .[Kpush origin rama-gonzalocommit -m "prueba con el script py"[A]0;root@ubuntu2204: /home/ubuntu/avance2/APF2-mininetroot@ubuntu2204:/home/ubuntu/avance2/APF2-mininet# [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kmv ejercio2.py ejercicio2.pyls[Ksudo python3 ejercio2.pyls[Ksudo python3 ejercio.pyls[Ksudo python3 ejercicio2.py[10Pnano ejercio2.pygit pull origin mainsh origin rama-gonzalocommit -m "ejercicio 2 - gonzalo"[A]0;root@ubuntu2204: /home/ubuntu/avance2/APF2-mininetroot@ubuntu2204:/home/ubuntu/avance2/APF2-mininet# [C[C[C[Cadd . [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kgit push origin gonzalocommit -m "ejercicio2 - gonzalo"[A]0;root@ubuntu2204: /home/ubuntu/avance2/APF2-mininetroot@ubuntu2204:/home/ubuntu/avance2/APF2-mininet# [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo mn --topo linear,5,4
+[?2004l*** No default OpenFlow controller found for default switch!
+*** Falling back to OVS Bridge
+*** Creating network
+*** Adding controller
+*** Adding hosts:
+h1s1 h1s2 h1s3 h1s4 h1s5 h2s1 h2s2 h2s3 h2s4 h2s5 h3s1 h3s2 h3s3 h3s4 h3s5 h4s1 h4s2 h4s3 h4s4 h4s5 
+*** Adding switches:
+s1 s2 s3 s4 s5 
+*** Adding links:
+(h1s1, s1) (h1s2, s2) (h1s3, s3) (h1s4, s4) (h1s5, s5) (h2s1, s1) (h2s2, s2) (h2s3, s3) (h2s4, s4) (h2s5, s5) (h3s1, s1) (h3s2, s2) (h3s3, s3) (h3s4, s4) (h3s5, s5) (h4s1, s1) (h4s2, s2) (h4s3, s3) (h4s4, s4) (h4s5, s5) (s2, s1) (s3, s2) (s4, s3) (s5, s4) 
+*** Configuring hosts
+h1s1 h1s2 h1s3 h1s4 h1s5 h2s1 h2s2 h2s3 h2s4 h2s5 h3s1 h3s2 h3s3 h3s4 h3s5 h4s1 h4s2 h4s3 h4s4 h4s5 
+*** Starting controller
+
+*** Starting 5 switches
+s1 s2 s3 s4 s5 ...
+*** Starting CLI:
+mininet> exit
+*** Stopping 0 controllers
+
+*** Stopping 24 links
+........................
+*** Stopping 5 switches
+s1 s2 s3 s4 s5 
+*** Stopping 20 hosts
+h1s1 h1s2 h1s3 h1s4 h1s5 h2s1 h2s2 h2s3 h2s4 h2s5 h3s1 h3s2 h3s3 h3s4 h3s5 h4s1 h4s2 h4s3 h4s4 h4s5 
+*** Done
+completed in 20.707 seconds
+[?2004h]0;root@ubuntu2204: /home/ubuntu/avance2/APF2-mininetroot@ubuntu2204:/home/ubuntu/avance2/APF2-mininet# [?2004l
+exit
+
+Script done on 2025-06-07 04:07:53+00:00 [COMMAND_EXIT_CODE="0"]
