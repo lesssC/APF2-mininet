@@ -62,7 +62,7 @@ sudo mn --topo linear,5,4
 Se genera una topologia tridimensional tipo torus con dimensiones 3x4x5. En el cual se conectas switches en un espacio de malla.
 > Switches: 12
 > Hosts: 60
-> Enlaces: 94
+> Enlaces: 84
 
 ```bash
 sudo mn --topo torus,3,4,5
@@ -73,11 +73,13 @@ sudo mn --topo torus,3,4,5
 
 ### 🔀 Control de versiones y ramas
 
-> - main: Rama principal (versión base del proyecto).
+> - main: Rama principal (versión raiz del proyecto).
 
-> - rama-gonzalo: Rama para pruebas y documentación de la topología torus.
+> - rama-gonzalo: Rama para pruebas y documentación de la topología linear.
 
-> - rama-antony: Rama para pruebas y documentación de la topología arbol.
+> - rama-antony: Rama para pruebas y documentación de la topología torus.
+
+> - rama-leslie: Rama para pruebas y documentación de la topología arbol.
 
 ### ✔️ Pull Request
 
