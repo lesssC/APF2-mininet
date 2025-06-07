@@ -1,3 +1,5 @@
+Ejerccio 3
+
 Script started on 2025-06-07 00:49:44-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
 [?2004h]0;root@ubuntu2204: /home/ubuntu/ProyectoMininet/APF2-mininetroot@ubuntu2204:/home/ubuntu/ProyectoMininet/APF2-mininet# sudo --[K[Kmn--[K[K --topo torus, 3,4,5
 [?2004l*** No default OpenFlow controller found for default switch!
@@ -28,7 +30,7 @@ s1x1 s1x2 s1x3 s1x4 s2x1 s2x2 s2x3 s2x4 s3x1 s3x2 s3x3 s3x4
 h1x1x1 h1x1x2 h1x1x3 h1x1x4 h1x1x5 h1x2x1 h1x2x2 h1x2x3 h1x2x4 h1x2x5 h1x3x1 h1x3x2 h1x3x3 h1x3x4 h1x3x5 h1x4x1 h1x4x2 h1x4x3 h1x4x4 h1x4x5 h2x1x1 h2x1x2 h2x1x3 h2x1x4 h2x1x5 h2x2x1 h2x2x2 h2x2x3 h2x2x4 h2x2x5 h2x3x1 h2x3x2 h2x3x3 h2x3x4 h2x3x5 h2x4x1 h2x4x2 h2x4x3 h2x4x4 h2x4x5 h3x1x1 h3x1x2 h3x1x3 h3x1x4 h3x1x5 h3x2x1 h3x2x2 h3x2x3 h3x2x4 h3x2x5 h3x3x1 h3x3x2 h3x3x3 h3x3x4 h3x3x5 h3x4x1 h3x4x2 h3x4x3 h3x4x4 h3x4x5 
 *** Done
 completed in 110.575 seconds
-[?2004h]0;root@ubuntu2204: /home/ubuntu/ProyectoMininet/APF2-mininetroot@ubuntu2204:/home/ubuntu/ProyectoMininet/APF2-mininet# [?2004l
+[?2004h]0;root@ubuntu2204: /home/ubuntu/ProyectoMininet/APF2-mininetroot@ubuntu2204:/home/ubuntu/ProyectoMininet/APF2-mininet# [?2004l
 exit
 
 Script done on 2025-06-07 00:52:08-04:00 [COMMAND_EXIT_CODE="0"]
